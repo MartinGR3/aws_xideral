@@ -464,6 +464,6 @@ Si Jupyter Notebook se abre correctamente en el navegador, el entorno está list
 
 Al finalizar esta configuración tendremos un entorno de desarrollo en el navegador:
 
-![Instalación de Ubuntu](./img/ubuntu.png)
+![Entorno de desarrollo](img/Entorno.png)
 Con esto, el entorno estará preparado para trabajar con **Python, Jupyter Notebook y Docker** desde Ubuntu mediante WSL.
 
