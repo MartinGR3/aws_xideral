@@ -8,7 +8,7 @@ Esta documentación describe los pasos necesarios para preparar el entorno de de
 * **pyenv**
 * **Entorno virtual de Python (`venv`)**
 * **Jupyter Notebook**
-
+ 
 ---
 ## Requisitos previos
 Antes de comenzar, asegúrate de contar con:
